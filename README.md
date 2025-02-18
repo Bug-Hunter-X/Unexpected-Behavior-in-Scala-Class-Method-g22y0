@@ -1,0 +1,1 @@
+This repository contains a simple Scala class that demonstrates an uncommon error. The `MyClass` class has a method that adds two integers, but there is a potential for a bug if the object's internal state is modified unexpectedly.
